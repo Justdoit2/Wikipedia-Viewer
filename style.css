@@ -1,0 +1,46 @@
+body{
+  text-align:center;
+}
+
+
+.space{
+  margin-top:10%;
+}
+
+
+ul {
+  list-style-type: none;
+}
+h5{
+  font-family:cursive;
+}
+
+h4{
+  font-family:Pacifico;
+}  
+
+.position{
+  position:fixed;
+  bottom:0;
+  
+  
+}
+
+
+
+input[type=text]{
+  
+  width:50%;
+  display:inline-block;
+  
+}
+
+input[type=text]:focus {
+    border-color:orange;
+   
+  
+}
+
+
+
+
